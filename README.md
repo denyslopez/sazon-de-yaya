@@ -15,6 +15,9 @@ Sazón de Yaya es un proyecto de e-commerce para un negocio familiar de comida c
 - Control de versiones: Git y GitHub
 - [Otras tecnologías por definir]
 
+## Enfoque de Diseño
+Utilizamos storytelling para crear una experiencia inmersiva que conecte emocionalmente a los visitantes con la historia y los valores de Sazón de Yaya.
+
 ## Estado del Proyecto
 En fase inicial de planificación y diseño.
 
