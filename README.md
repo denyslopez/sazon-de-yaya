@@ -12,6 +12,7 @@ Sazón de Yaya es un proyecto de e-commerce para un negocio familiar de comida c
 ## Tecnologías
 - Frontend: React.js
 - Mobile App: Flutter
+- Control de versiones: Git y GitHub
 - [Otras tecnologías por definir]
 
 ## Estado del Proyecto
